@@ -1,4 +1,3 @@
-[![Header]()
 ## I'm a Junior QA Engineer .
 ## My CV
 [Link to my CV]()
